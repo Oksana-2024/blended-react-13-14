@@ -9,7 +9,6 @@ import stats from './data/stats.json';
 import article from './data/article.json';
 import forbes from './data/forbes.json';
 import transactions from './data/transactions.json';
-//import LandingSection from './components/LandingSection/LandingSection';
 import Landing from './components/Landing/Landing';
 
 export const App = () => {
